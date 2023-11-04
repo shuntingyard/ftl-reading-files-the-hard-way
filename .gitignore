@@ -1,2 +1,4 @@
 *.o
 readfile
+mmap
+dump_stat_struct
